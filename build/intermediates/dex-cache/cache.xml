@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_2f8ddf2b0ffdbd8217e3f280c4ae477abd823e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.0_410d49be0f8506255c4a10359ca7f941943c7795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.0_c70434ecc71c0025aefe91be840ad638d3bf7174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.0_3fd4951a2ec306a53d58e3989c60d3d567aafbef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.0_b815d3945fad1d3c447e8d43795cac1c6182ed10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_245453a0021d004a6946c2bb18a1623b1594a7c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_0c534cfd42c60acc9bcd498738a7d575f26cca8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.0_a571fbae4c226e72575c365b404afd01abb06a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.0_913950b3a8284308bc475c7c06c2883b34d6b190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.0_56dc6546aa3914b934c46d53d3a5aabbb8d24523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.0_8f3bb9d3d319be1856b698d45b5a8d2a64e8ca05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_4176ce8b862cb8de499dff461d0c98791fbae37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.0_2634c3f95f08b88c3625337ff4015148a67d9316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.0_c7e2d7fe9214711dd1297b333558cfd8f2b464fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_871a9bcef01eaaa504946a6d1e9f997e8e782039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_015b951c8a769d8975cfc531e32399fcfe307b21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.0_4bb6d45d5efd99bf2d856394c7d85485e44b2de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.0_162f5133ce6bd653d4df7b480907f119b41ea7d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\libs\Parse-1.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="35921ead63f6cafd9f84ff178c60fe474c4b17a6">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\Parse-1.9.3_27f7afd94ce22847ac94a28b67ba450b17e1ef69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.0_e7dcfb3eb36b01eeafb4b69cd2e534c3a5e28d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_3913ff51ccf34dae78ead3a2b2c641027cde2d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.0_48b1971c42b47e16b47fbe1b224c6ec419196a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.0_0c2d9888c37e6238c2f32668fde63d5ec60d9f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.0_7ef1d0fb31041727263d557f30392f39b0ecd4ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.0_46e22239b9c8b67e124c90fd4eeda1a5a96289cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_9f8c69523fc65534d8dfae67bdd7baeac9190846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.0_39f1d4bdca20342e5c56f5da84049ceb1fc34b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_bb16b568ad91cc3dde38f330d1db07b0cdcb335c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\volley_6aaf04b0fd8d8a61430dfa9340a28530cfd8d03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.0_c2cc576bbddaac98f5907cdd2480f8f01dbf7de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.0_eda19e4a5bb7c5ecb69ca2a32463974dc141fcb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.0_ceb59a92ba4878cb2edfd9affe4942f653ce7bb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.0_88b5d90cf50ce8e9ad1a8201f086d0370425843c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.0_3f7e2a21e4ebc32f46b403dfaf98f0c48ab95d43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a18773c279bde7e49e09f621aea613685c108c7f">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.0_539009194e38b3fcaa865053f1c76004cf7b0afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.0_79ec46ef3f44acb8703d1b3ff49e675d120ef05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.0_b6b7c013376d8e21485afcc9a742d9836583fffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ac49e5d5aea8772c8018ce2888145f04c5fe7ca">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.0_665f898d687d823975a0434d7007120131cd9a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\libs\crouton-1.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f7f33cca0b0fcec104a135bb5737cdb811fb6ed">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\crouton-1.8.1_ef71471b55e704f3e9a72667cdeef6d8cf7f135e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_af398044fd734ea22652341c8a493f194cb586d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.0_2dd7a210c93a113e68334250cb5ef7fc6971a7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_eab33fbd1ba0617f5b12a7218bd6de116956e64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.0_e95dd5d4a9d3e59fcdcf0baeee96291cb694ea90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.0_36a2637dbf89c6b95b7cf0b41a89b478420de1ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.0_79e7295b8faf0ed1ca990d5d5ac570de1072a018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_282f06a40fc65932ab819b52a45088822ddcbf59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.0_7b3809919185fd2cfddf7720d3d8bce9f22ffbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.0_72328a123cac1bd0494da635a961fb937bc0a57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.0_95d562972cc8622f9b0ca5470affeb6950918f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.0_08517856b0932bbd5a5003738f285ded6cba59aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.0_be64069f2963648e115490e7a215a1d3cff9e6ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.0_33954da9d005145a44d2595b4a54081e1160b68f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.0_62c84a0a524659f38f3aab752fd7785619671e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.0_0ec8ba771c3fca7678365ae7453831e8e77644e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.0_081df3883bbea45329d765f34169a7c88fca9f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.0_09bab28939e5702b76c36b2a174bf6a32d89dc1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.0_7230d87c40526472926051afcce391a60ad77e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.0_b14193587f09ede7b561ba9511eae4423dc8a0a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.0_d521e461d27ae7ddd0db4f63e8aa1876e787bc34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.0_35c8e4f2b6e5da1d3090401cfbce3d2a95a9867c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_b72ab31788e932b7ca361851ad9f73d29bb7eb70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.0_71ff0a41b41fc05ffb6b38a1545b8499631ca900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AppArroyitoComercial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="D:\Android\AppArroyitoComercial\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.0_9893892de8433bcb3d15880c56faec515b7c3efa.jar" />
+    </item>
+
+</items>

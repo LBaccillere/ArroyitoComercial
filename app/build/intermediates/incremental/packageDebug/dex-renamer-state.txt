@@ -1,0 +1,7 @@
+#Sun Dec 04 20:45:14 ART 2016
+base.0=D\:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex
+base.1=D\:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=D\:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,87 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="jf.desarrollos.arroyitocomercial.Vista.Actividad.MainActivity">
+
+    <include layout="@layout/content_layout" />
+
+    <RelativeLayout
+        android:id="@+id/drawer_pane"
+        android:layout_width="320dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start" >
+
+        <RelativeLayout
+            android:id="@+id/relative"
+            android:layout_width="match_parent"
+            android:layout_height="192dp"
+            android:background="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_gravity="left|bottom"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="8dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp">
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="152.43dp"
+                android:layout_height="100dp"
+                android:scaleType="centerCrop"
+                android:background="@drawable/icono_inicio"
+                android:layout_gravity="center"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/imageView2" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:text="@string/correo_arroyito_comercial"
+                android:textSize="15sp"
+                android:textColor="@color/gray_dark"
+                android:layout_below="@+id/imageView2"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/textView"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:text="03576 - 419412"
+                android:textSize="15sp"
+                android:textColor="@color/gray_dark"
+                android:layout_below="@+id/textView"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="5dp"/>
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/nav_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:choiceMode="singleChoice"
+            android:layout_below="@+id/relative">
+        </ListView>
+    </RelativeLayout>
+
+</android.support.v4.widget.DrawerLayout>

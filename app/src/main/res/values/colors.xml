@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="accent">#2E7D32</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#F4F4F4</color>
+    <color name="blue">#0000FF</color>
+    <color name="menu_selected">#E8F5E9</color>
+    <color name="recycler_view_selected_1">#69F0AE</color>
+    <color name="recycler_view_selected_2">#00E676</color>
+    <color name="tabs_selected">#C8E6C9</color>
+    <color name="gray_dark">#454545</color>
+    <color name="datos">#464343</color>
+    <color name="verde_oscuro">#3f6d63</color>
+    <color name="verde_claro">#74958e</color>
+    <color name="verde_icono">#00aa18</color>
+    <color name="verde_icono_degradado"> #00c81c</color>
+    <drawable name="primary">#00aa18</drawable>
+</resources>

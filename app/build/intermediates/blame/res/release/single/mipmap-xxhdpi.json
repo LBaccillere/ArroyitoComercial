@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_shared.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_shared.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_web.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_web.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_heart_white.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_heart_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_call_light.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_call_light.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_less.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_less.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_call.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_call.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_more.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_refresh.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_event.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_event.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_heart_back.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_heart_back.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_home.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_menu.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_phone.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_email.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_contact.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_contact.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_anunciarme.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_anunciarme.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_maps.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_maps.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_back_white.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_back_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_electro.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_electro.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_clock.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_phone_white.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_phone_white.png"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_call_dark.png",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_call_dark.png"
+    }
+]

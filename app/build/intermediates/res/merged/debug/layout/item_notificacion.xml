@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:contentPaddingTop="8dp"
+    app:contentPaddingBottom="8dp"
+    android:layout_marginTop="8dp"
+    android:minHeight="?attr/listPreferredItemHeight"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/ivImagen"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@mipmap/ic_anunciarme"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleLarge"
+            android:id="@+id/pBar"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"/>
+
+        <TextView
+            android:id="@+id/tvTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/ivImagen"
+            android:text="New Text"
+            android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+            tools:text="¡Cyberlunes!" />
+
+        <TextView
+            android:id="@+id/tvMensaje"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvTitulo"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/ivImagen"
+            android:text="New Text"
+            tools:text="Compra en línea ahora mismo y ahorra hasta un 50% en el seguro de tu automóvil" />
+
+        <TextView
+            android:id="@+id/tvFechaFin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvMensaje"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/ivImagen"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            android:textStyle="italic" />
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

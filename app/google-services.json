@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "318520775788",
+    "firebase_url": "https://arroyitocomercial-1362.firebaseio.com",
+    "project_id": "arroyitocomercial-1362",
+    "storage_bucket": "arroyitocomercial-1362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318520775788:android:b58e649584944fee",
+        "android_client_info": {
+          "package_name": "jf.desarrollos.arroyitocomercial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318520775788-dahfk43u5gt1ckp1eh3a7v26d4uciqr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9nNWGyHJCbkd-IO5EjD96I6Uqn_INWH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318520775788:android:61085e62b016361a",
+        "android_client_info": {
+          "package_name": "testing.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318520775788-dahfk43u5gt1ckp1eh3a7v26d4uciqr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9nNWGyHJCbkd-IO5EjD96I6Uqn_INWH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

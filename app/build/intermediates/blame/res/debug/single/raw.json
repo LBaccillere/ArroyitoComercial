@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\TRABAJOS\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\TRABAJOS\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\Android\\AppArroyitoComercial\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    }
+]

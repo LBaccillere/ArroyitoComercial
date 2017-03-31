@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_home"
+            android:icon="@mipmap/ic_home"
+            android:title="@string/inicio"/>
+        <item
+            android:id="@+id/menu_seccion_event"
+            android:icon="@mipmap/ic_event"
+            android:title="@string/eventos"/>
+        <item
+            android:id="@+id/menu_seccion_notificacion"
+            android:icon="@mipmap/ic_anunciarme"
+            android:title="@string/publicitarme"/>
+        <item
+            android:id="@+id/menu_seccion_contact"
+            android:icon="@mipmap/ic_contact"
+            android:title="@string/contacto"/>
+    </group>
+</menu>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Arroyito Comercial</string>
+    <string name="action_settings">Opciones</string>
+    <string name="drawer_opened">Abrir Menu</string>
+    <string name="drawer_closed">Cerrar Menu</string>
+    <string name="titulo">Título</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_back">Atrás</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="email">Email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="comercio">Comercio</string>
+    <string name="asunto">Asunto</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sitio_web">Sitio Web</string>
+    <string name="borrar">Borrar</string>
+    <string name="rubro">Rubro</string>
+    <string name="subrubro">Subrubro</string>
+    <string name="direccion">Dirección</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="inicio">Inicio</string>
+    <string name="eventos">Eventos</string>
+    <string name="contacto">Contacto</string>
+    <string name="titulo_comercio_activity">Comercio</string>
+    <string name="titulo_main_activity">Arroyito Comercial</string>
+    <string name="cargando">Cargando...</string>
+    <string name="comercios_vacios">No se encontraron resultados, desplaza hacia abajo para actualizar.</string>
+    <string name="eventos_vacios">No hay eventos disponibles, desplaza hacia abajo para actualizar.</string>
+    <string name="ofertas_vacias">No hay ofertas disponibles, desplaza hacia abajo para actualizar.</string>
+    <string name="rubros_vacios">No se encontraron rubros, desplaza hacia abajo para actualizar.</string>
+    <string name="subrubros_vacios">No se encontraron subrubros, desplaza hacia abajo para actualizar.</string>
+    <string name="notificaciones_vacias">No hay notificaciones disponibles, desplaza hacia abajo para actualizar.</string>
+    <string name="no_disponible">No disponible.</string>
+    <string name="consultar_precio">Consultar precio.</string>
+    <string name="nombre_fantasia">Nombre de fantasía</string>
+    <string name="direcciones">Dirección</string>
+    <string name="descripcion">Descripción</string>
+    <string name="publicitarme">Anunciarme</string>
+    <string name="titulo_formulario_comercio">Formulario para nuevo comercio</string>
+    <string name="titulo_formulario_contacto">Formulario de contacto</string>
+    <string name="correo_arroyito_comercial">info@arroyitocomercial.com</string>
+    <string name="cargando_comercios">Cargando comercios...</string>
+    <string name="mas_info">Más info...</string>
+    <string name="hora_apertura">Hora Apertura</string>
+    <string name="hora_cierre">Hora cierre</string>
+    <string name="horario">Horarios de atención</string>
+    <string name="maps">maps</string>
+    <string name="phone">phone</string>
+
+    <string-array name="cabecera_tabla_horario">
+        <item>Día</item>
+        <item>Horario</item>
+    </string-array>
+</resources>
